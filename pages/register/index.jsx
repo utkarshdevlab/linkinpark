@@ -25,10 +25,11 @@ export default function Register() {
             <p className="text-sm text-gray-500">
               Get started for free. No credit card required
             </p>
-          </div>
+          </div> 
           <Form type="register" />
         </div>
       </div>
     </>
   );
 }
+// trying in 
